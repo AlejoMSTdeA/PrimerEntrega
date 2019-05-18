@@ -1,0 +1,15 @@
+{
+  "name": "primerentrega",
+  "version": "1.0.0",
+  "description": "Primer entrega curso node.js",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Morales Sánchez alejo89.morales89@gmail.com",
+  "license": "ISC"
+}
